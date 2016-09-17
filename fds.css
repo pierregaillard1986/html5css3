@@ -1,0 +1,150 @@
+body {
+    background-image: url("full.jpg");
+    width: 720px;
+    height: 100%;
+    background-repeat: repeat-y;
+    color: white;
+    font-size: 1em;
+}
+
+.titre {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+h2 {
+    background-color: black;
+    font-size: 1.5em;
+    color: white;
+}
+
+.bloc1 {
+    border-top: 2px yellow solid;
+    margin-top: 30px;
+}
+
+.bloc2 {
+    margin-top: 5px;
+    border-top: 2px yellow solid;
+}
+
+.bloc3 {
+    margin-top: 5px;
+    border-top: 2px yellow solid;
+}
+
+.bloc4 {
+    margin-top: 5px;
+    border-top: 2px yellow solid;
+}
+
+strong {
+    color: yellow;
+}
+
+.supplement {
+    border-left: 2px yellow solid;
+}
+
+.bloc2 img {
+    float: left;
+    border: 2px yellow solid;
+}
+
+.bloc3 img {
+    float: right;
+    border: 2px yellow solid;
+}
+
+.sousparagraphe {
+    background-color: grey;
+    border-top: 2px yellow solid;
+    border-bottom: 2px yellow solid;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.container-central {
+    padding-left: 45px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+.mylinks li {
+    border-bottom: 1px grey solid;
+    font-size: 1.4em;
+}
+
+.webdesign li {
+    border-bottom: 1px grey solid;
+    font-size: 1.4em;
+}
+
+h1 {
+    position: absolute;
+    top: 65px;
+    margin-left: 55px;
+    font-size: 5em;
+    text-align: center;
+}
+
+.starlist li {
+    font-size: 2em;
+}
+
+.starlist {
+    margin-bottom: 100px;
+}
+
+.titre2 {
+    background-color: yellow;
+    color: rgb(236, 21, 91);
+    font-weight: bold;
+}
+
+h4 {
+    background-color: rgb(236, 21, 91);
+    color: white;
+    border-top: 2px yellow solid;
+}
+
+.RECENTUPDATE li {
+    margin-right: 30px;
+    font-size: 1.5em;
+}
+
+.RECENTUPDATE ul {
+    border-left: 2px yellow solid;
+    border-right: 2px yellow solid;
+    border-bottom: 2px yellow solid;
+    padding-bottom: 100px;
+}
+
+.titre3 {
+    background-color: yellow;
+    color: rgb(236, 21, 91);
+    ;
+    font-weight: bold;
+}
+
+.sideitem p {
+    border-left: 2px yellow solid;
+    border-right: 2px yellow solid;
+    border-bottom: 2px yellow solid;
+}
+footer img{
+position: absolute;
+padding-left: 360px;
+}
+footer p{
+position:relative;
+padding-top: 250px;
+}
